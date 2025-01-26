@@ -5,7 +5,7 @@ import WeroomXprinter, {
   type TSPLPrintConfig,
 } from './NativeWeroomXprinter';
 
-export { DeviceType, PrintFonts };
+export { DeviceType, PrintFonts, type TSPLPrintConfig, type OnConnectStatus };
 
 export function init() {
   return WeroomXprinter.init();

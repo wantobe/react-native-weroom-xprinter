@@ -1,6 +1,6 @@
 {
   "name": "react-native-weroom-xprinter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "芯烨热敏打印机SDK封装",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
