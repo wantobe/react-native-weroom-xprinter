@@ -1,6 +1,6 @@
 # react-native-weroom-xprinter
 
-热敏芯烨打 印机
+芯烨热敏打印机SDK封装，只有实现了安卓平台打印功能，其他功能请自行实现
 
 ## Installation
 
@@ -10,7 +10,6 @@ npm install react-native-weroom-xprinter
 
 ## Usage
 
-
 ```js
 import { multiply } from 'react-native-weroom-xprinter';
 
@@ -18,7 +17,6 @@ import { multiply } from 'react-native-weroom-xprinter';
 
 const result = multiply(3, 7);
 ```
-
 
 ## Contributing
 

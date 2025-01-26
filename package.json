@@ -1,7 +1,7 @@
 {
   "name": "react-native-weroom-xprinter",
   "version": "0.1.0",
-  "description": "热敏芯烨打 印机",
+  "description": "芯烨热敏打印机SDK封装",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
@@ -52,14 +52,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+http://git.com.git"
+    "url": "git+https://github.com/wantobe/react-native-weroom-xprinter.git"
   },
   "author": "linyongquan <linyongquan@wurun.net> (http://www.wurun.net)",
   "license": "MIT",
   "bugs": {
-    "url": "http://git.com/issues"
+    "url": "https://github.com/wantobe/react-native-weroom-xprinter/issues"
   },
-  "homepage": "http://git.com#readme",
+  "homepage": "https://github.com/wantobe/react-native-weroom-xprinter#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
